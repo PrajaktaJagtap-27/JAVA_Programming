@@ -21,7 +21,7 @@ class AdditionServer3
         no2 = diobj.readInt();
 
         int sum = no1 + no2;
-=
+
         doobj.writeInt(sum);
 
 
